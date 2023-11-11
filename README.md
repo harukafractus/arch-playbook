@@ -11,7 +11,7 @@ Deployment
   > sudo pacman -S ansible git
 
 - Clone this repository
-  > git clone https://github.com/harukaWinter/arch-playbook
+  > git clone https://github.com/harukafractus/arch-playbook
 
 - Install dependencies 
   > ansible-galaxy install -r requirements.yml
